@@ -23,5 +23,4 @@ async function generateJokes() {
     }
     jokeText.innerHTML = joke
 
-
 }
